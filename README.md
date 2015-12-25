@@ -3,6 +3,7 @@ A Dijkstra package to find the shortest path.
 Copy the contents of this repository to python package directory.
 
 Usage example:
+
 	from Dijkstra import Dijkstra, Graph
 
 	graph = Graph()
